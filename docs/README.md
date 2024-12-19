@@ -57,6 +57,14 @@ Possible diagnoses for each individual:
 - Cross-validation and performance optimization
 - Feature importance analysis across models
 
+<img src="feature_importance.png" width=70% height=70%>
+This suggests that the most reliable indicators for early Alzheimer's detection in voice are related to:
+
+- Variations in voice loudness
+- Changes in voice characteristics over time
+- The way someone modulates their voice
+- Patterns in speech pauses and continuity
+
 ### Technical Implementation
 
 #### Data Processing
