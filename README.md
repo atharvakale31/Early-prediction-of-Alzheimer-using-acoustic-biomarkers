@@ -1,1 +1,1 @@
-# Early-prediction-of-Alzheimer-using-acoustic-biomarkers
+# Early Prediction of Alzheimer using Acoustic Biomarkers
